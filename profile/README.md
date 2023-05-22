@@ -2,11 +2,11 @@
 
 :: Nossa Proposta de Valor como Plataforma Exponencial ::
 
-Porque? Nós acreditamos em inovação com propósito, B2B.H2H, proporcionar novas experiências!
+Nós acreditamos em inovação com propósito, B2B.H2H, proporcionar novas experiências!
 
-Como? Uma das maneiras que encontramos de praticar nossas crenças foi unindo design e tecnologia para resolver dores, empoderando os usuários.
+Uma das maneiras que encontramos de praticar nossas crenças foi unindo design e tecnologia para resolver dores, empoderando os usuários.
 
-O que? E dessa forma em nossa célula de negócios ideyas Innovation e em contínuo desenvolvimento, já está em operação a nossa primeira startup. Dentro do universo Indústria 4.0 [IndTech] estamos operando uma LogTech [Platform SaaS para gestão logística integrada] com foco em logística portuária, modal aquaviário, gestão e lineup dos navios. Como visão de médio e longo prazo, buscamos a escala no mercado. #PraCima 🚀⚓🚢🎯🌎
+E dessa forma em nossa célula de negócios ideyas Innovation e em contínuo desenvolvimento, já está em operação a nossa primeira startup. Dentro do universo Indústria 4.0 [IndTech] estamos operando uma LogTech [Platform SaaS para gestão logística integrada] com foco em logística portuária, modal aquaviário, gestão e lineup dos navios. Como visão de médio e longo prazo, buscamos a escala no mercado. #PraCima 🚀⚓🚢🎯🌎
 
 :: A nossa cultura é guia diário para o time! ::
 
