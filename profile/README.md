@@ -12,7 +12,7 @@ E dessa forma em nossa célula de negócios ideyas Innovation e em contínuo des
 
 **:: A nossa cultura é guia diário para o time! ::**
 
-Tendo como pilares o Remote First [trabalhamos independentemente do local, o que precisamos está na nuvem] e a Comunicação Assíncrona guiada por: Transparência que gera confiança! Flexibilidade com responsabilidade. Movidos por sendo de propósito + valores ideyas que apoiam nossas decisões. #pessoas #cultura #time #agilemindset 
+Tendo como pilares o Remote First [trabalhamos independentemente do local, o que precisamos está na nuvem] e a Comunicação Assíncrona guiada por: Transparência que gera confiança! Flexibilidade com responsabilidade. Movidos por senso de propósito + valores ideyas que apoiam nossas decisões. #pessoas #cultura #time #agilemindset 
 
 <!--
 
