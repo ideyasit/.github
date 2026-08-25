@@ -1,18 +1,115 @@
 ![linkedin_capa_ideyas](https://github.com/ideyasit/.github/assets/45001308/032f39df-7c9c-404e-a224-f546381ba966)
 
-## Ei, somos ideyas! ⚓🚀🌍🦓 ##
+## Ei, somos ideyas! ⚓🌍 ##
 
-**:: Nossa Proposta de Valor como Plataforma Exponencial ::**
+**:: Inovação com propósito. ::**
 
-Nós acreditamos em inovação com propósito, B2B.H2H, proporcionar novas experiências!
+A ideyas.it é uma empresa de tecnologia, produto e inovação.
 
-Uma das maneiras que encontramos de praticar nossas crenças foi unindo design e tecnologia para resolver dores, empoderando as pessoas.
+Criamos negócios, produtos e experiências digitais conectando visão de negócio, design, engenharia, dados e tecnologia para resolver problemas reais e gerar valor para pessoas e organizações.
 
-E dessa forma em nossa célula de negócios ideyas Innovation e em contínuo desenvolvimento, já está em operação a nossa primeira startup. Dentro do universo Indústria 4.0 [IndTech] estamos operando uma LogTech [Platform SaaS para gestão logística integrada] com foco em logística portuária, modal aquaviário, gestão e lineup dos navios. Como visão de médio e longo prazo, buscamos a escala no mercado. #PraCima 🚀⚓🚢🎯🌎
+Construímos software B2B com visão H2H — Human to Human. Porque, mesmo nas operações mais complexas, tecnologia continua sendo sobre pessoas tomando decisões melhores.
 
-**:: A nossa cultura é guia diário para o time! ::**
+Hoje, nosso principal foco está na logística industrial e portuária, onde estamos construindo e evoluindo a ideyas e-lineup.
 
-Tendo como pilares o Remote First [trabalhamos independentemente do local, o que precisamos está na nuvem] e a Comunicação Assíncrona guiada por: Transparência que gera confiança! Flexibilidade com responsabilidade. Movidos por senso de propósito + valores ideyas que apoiam nossas decisões. #pessoas #cultura #time #agilemindset 
+
+## ⚓ ideyas e-lineup ##
+
+A ideyas e-lineup é nossa plataforma SaaS B2B/H2H, AI-First, criada para apoiar operações industriais, logísticas e portuárias.
+
+Ela nasceu próxima da operação e continua evoluindo a partir dela.
+
+Line-up de navios, planejamento, eventos operacionais, berços, cargas, ordens de venda, integrações, histórico operacional, indicadores e diferentes contextos da jornada portuária passam a compartilhar uma mesma camada de informação.
+
+O objetivo é simples de explicar e desafiador de construir:
+
+dar mais contexto para quem opera e mais previsibilidade para quem decide.
+
+A plataforma evolui continuamente em direção a uma camada de inteligência operacional, conectando dados, regras de negócio, experiência, automação e IA aplicada para apoiar planejamento, antecipação de riscos e tomada de decisão.
+
+Previsibilidade para decidir. Inteligência para evoluir.
+
+## Nossa proposta de valor ##
+
+Acreditamos que boas plataformas operacionais precisam fazer mais do que digitalizar processos.
+
+Precisam compreender contexto.
+
+Por isso, buscamos aumentar a visibilidade da operação, conectividade entre informações, rastreabilidade, previsibilidade e capacidade de decisão, preservando aquilo que é fundamental em ambientes críticos: estabilidade, confiança e simplicidade.
+
+Na prática, isso significa desenvolver tecnologia capaz de acompanhar operações reais, aprender com elas e continuar evoluindo junto com as pessoas e organizações que a utilizam.
+
+## Produto + Design + Engenharia + Negócio ##
+
+Não tratamos essas disciplinas como mundos separados.
+
+Produto ajuda a entender o problema.
+
+Design transforma complexidade em experiência.
+
+Engenharia transforma decisões em software confiável.
+
+Dados ampliam nossa compreensão da operação.
+
+Negócio mantém a tecnologia conectada ao valor que precisa gerar.
+
+Esse encontro faz parte da forma como construímos a ideyas.it.
+
+Software é engenharia, mas também é cuidado com contexto, comportamento, detalhes e pessoas.
+
+## AI-First, Human-First ##
+
+Enxergamos IA como uma nova camada da engenharia de software e da construção de produtos.
+
+Na ideyas e-lineup, nossa direção é aplicar inteligência artificial onde ela realmente puder melhorar a operação: descoberta de informações, análise de contexto, previsão, identificação de riscos, apoio à decisão, automação e novas formas de interação com dados.
+
+Sempre com responsabilidade, segurança, rastreabilidade e participação humana.
+
+IA precisa gerar valor real.
+
+## ideyas Innovation ##
+
+A ideyas Innovation é nossa célula de exploração e construção de novos negócios, produtos, serviços e experiências.
+
+É onde conectamos tecnologia emergente, design, engenharia, inteligência artificial e visão de negócio para investigar problemas que merecem novas respostas.
+
+Algumas ideias permanecem experimentos.
+
+Outras se transformam em produtos.
+
+A ideyas e-lineup nasceu desse movimento.
+
+## Como trabalhamos ##
+
+Somos Remote First e acreditamos em autonomia com responsabilidade, comunicação aberta, confiança e colaboração próxima.
+
+Mantemos produto, engenharia e negócio próximos da realidade onde o software é utilizado.
+
+Feedback entra no backlog.
+
+Problemas reais orientam decisões.
+
+Aprendizados voltam para o produto.
+
+E cada entrega precisa deixar a plataforma um pouco melhor do que estava antes.
+
+## O que estamos construindo ##
+
+Nosso trabalho com a logística portuária ainda está começando.
+
+A evolução da ideyas e-lineup amplia gradualmente sua capacidade de compreender operações, relacionar eventos, acompanhar navios e berços, interpretar dados, antecipar cenários e apoiar decisões.
+
+Nossa visão é construir uma plataforma cada vez mais preparada para atuar como uma camada de inteligência operacional portuária.
+
+Sem perder a proximidade com aquilo que deu origem a tudo isso:
+
+a operação real.
+
+## ideyas.it
+Vitória · Brasil 🇧🇷 ##
+
+Inovação com propósito.
+Previsibilidade para decidir. Inteligência para evoluir. ⚓
 
 <!--
 
