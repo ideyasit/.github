@@ -108,6 +108,7 @@ a operação real.
 ## ideyas.it  |  Vitória · Brasil 🇧🇷 ##
 
 Inovação com propósito.
+
 Previsibilidade para decidir. Inteligência para evoluir. ⚓
 
 <!--
