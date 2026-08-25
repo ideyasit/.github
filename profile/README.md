@@ -39,6 +39,17 @@ Por isso, buscamos aumentar a visibilidade da operação, conectividade entre in
 
 Na prática, isso significa desenvolver tecnologia capaz de acompanhar operações reais, aprender com elas e continuar evoluindo junto com as pessoas e organizações que a utilizam.
 
+## Construindo junto com a indústria ##
+
+A ideyas e-lineup nasceu próxima da operação e continua sendo construída nesse ambiente.
+
+Hoje, a plataforma está em operação na Gerdau, onde produto, tecnologia e operação evoluem em colaboração contínua e nos colocam em contato com desafios reais da logística industrial e portuária.
+
+Ao longo dessa jornada, também realizamos pilotos e explorações com empresas como Suzano e ArcelorMittal, ampliando nosso aprendizado sobre diferentes operações, contextos e necessidades da indústria.
+
+Essa proximidade faz parte da forma como acreditamos que software deve ser construído: entendendo profundamente o ambiente onde a tecnologia precisa gerar valor.
+
+
 ## Produto + Design + Engenharia + Negócio ##
 
 Não tratamos essas disciplinas como mundos separados.
@@ -56,6 +67,36 @@ Negócio mantém a tecnologia conectada ao valor que precisa gerar.
 Esse encontro faz parte da forma como construímos a ideyas.it.
 
 Software é engenharia, mas também é cuidado com contexto, comportamento, detalhes e pessoas.
+
+## As células ideyas ##
+
+A ideyas.it funciona como uma plataforma onde diferentes competências se encontram para construir produtos, negócios e experiências.
+
+Nossas células especializadas ampliam essa capacidade:
+
+ideyas Technology
+
+Engenharia de software, arquitetura, SaaS, cloud, dados, inteligência artificial e tecnologias aplicadas à construção e evolução de produtos digitais.
+
+ideyas Design
+
+Strategic Design, Product Design, UX e experiências digitais que transformam problemas complexos em soluções mais claras, úteis e humanas.
+
+ideyas Digital
+
+Growth, conteúdo, comunicação e inteligência orientada por dados para conectar produtos, marcas, mercados e pessoas.
+
+ideyas Innovation
+
+Nosso espaço de exploração.
+
+É onde investigamos problemas, tecnologias emergentes, novos modelos de negócio e possibilidades que podem se transformar em novos produtos e experiências.
+
+Technology, Design, Digital e Innovation não funcionam como disciplinas isoladas.
+
+Elas formam o jeito ideyas de pensar, experimentar e construir.
+
+A ideyas e-lineup é hoje a principal materialização desse encontro.
 
 ## AI-First, Human-First ##
 
