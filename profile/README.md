@@ -105,8 +105,7 @@ Sem perder a proximidade com aquilo que deu origem a tudo isso:
 
 a operação real.
 
-## ideyas.it
-Vitória · Brasil 🇧🇷 ##
+## ideyas.it  |  Vitória · Brasil 🇧🇷 ##
 
 Inovação com propósito.
 Previsibilidade para decidir. Inteligência para evoluir. ⚓
