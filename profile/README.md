@@ -4,9 +4,9 @@
 
 **:: Inovação com propósito. ::**
 
-A ideyas.it é uma empresa de tecnologia, produto e inovação.
+Somos plataforma de negócios, tecnologia e inovação.
 
-Criamos negócios, produtos e experiências digitais conectando visão de negócio, design, engenharia, dados e tecnologia para resolver problemas reais e gerar valor para pessoas e organizações.
+Transformamos problemas e oportunidades em negócios, produtos e experiências digitais, conectando estratégia, design, engenharia, dados e tecnologia para gerar valor real.
 
 Construímos software B2B com visão H2H — Human to Human. Porque, mesmo nas operações mais complexas, tecnologia continua sendo sobre pessoas tomando decisões melhores.
 
